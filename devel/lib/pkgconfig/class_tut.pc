@@ -1,0 +1,8 @@
+prefix=/home/ubuntu/workspace/melodic_gen/devel
+
+Name: class_tut
+Description: Description of class_tut
+Version: 0.0.0
+Cflags: -I/home/ubuntu/workspace/melodic_gen/src/ros_tutorials/class_tut/include
+Libs: -L/home/ubuntu/workspace/melodic_gen/devel/lib 
+Requires: roscpp std_msgs message_runtime

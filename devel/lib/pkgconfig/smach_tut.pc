@@ -1,0 +1,8 @@
+prefix=/home/ubuntu/workspace/melodic_gen/devel
+
+Name: smach_tut
+Description: Description of smach_tut
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/ubuntu/workspace/melodic_gen/devel/lib 
+Requires: rospy smach smach_ros

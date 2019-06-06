@@ -1,0 +1,8 @@
+prefix=/home/ubuntu/workspace/melodic_gen/devel
+
+Name: action_tut
+Description: Description of action_tut
+Version: 0.0.0
+Cflags: -I/home/ubuntu/workspace/melodic_gen/devel/include
+Libs: -L/home/ubuntu/workspace/melodic_gen/devel/lib 
+Requires: actionlib_msgs

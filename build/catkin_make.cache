@@ -1,0 +1,2 @@
+ros_tutorials/action_tut:ros_tutorials/beginner_tut:ros_tutorials/class_tut:ros_tutorials/gtest_tut:ros_tutorials/opencv_tut:ros_tutorials/ros_tutorials:ros_tutorials/smach_tut
+-DCATKIN_DEVEL_PREFIX=/home/ubuntu/workspace/melodic_gen/devel -DCMAKE_INSTALL_PREFIX=/home/ubuntu/workspace/melodic_gen/install -G Unix Makefiles

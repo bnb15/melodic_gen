@@ -1,0 +1,6 @@
+set(smach_tut_SETUP_PY_VERSION "0.0.0")
+set(smach_tut_SETUP_PY_SCRIPTS "")
+set(smach_tut_SETUP_PY_PACKAGES "smach_tut")
+set(smach_tut_SETUP_PY_PACKAGE_DIRS "src/smach_tut")
+set(smach_tut_SETUP_PY_MODULES "")
+set(smach_tut_SETUP_PY_MODULE_DIRS "")

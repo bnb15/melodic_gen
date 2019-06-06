@@ -1,0 +1,8 @@
+prefix=/home/ubuntu/workspace/melodic_gen/install
+
+Name: gtest_tut
+Description: Description of gtest_tut
+Version: 0.0.0
+Cflags: -I/home/ubuntu/workspace/melodic_gen/install/include
+Libs: -L/home/ubuntu/workspace/melodic_gen/install/lib 
+Requires: roscpp std_msgs
